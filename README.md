@@ -1,4 +1,1 @@
-redirect
-========
-
-redirect to github.com/zhengkai
+[[http://github.com/zhengkai]]
