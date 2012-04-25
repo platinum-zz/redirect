@@ -1,1 +1,1 @@
-[[http://github.com/zhengkai]]
+[github.com/zhengkai](http://github.com/zhengkai)
